@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/mrspouya/mrspouya.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+Resume
+```
+### Profile information
+---
++    Afsaneh pouya
++    mrspouya@yahoo.com
++    https://quera.ir/qcv/
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+  
+### Skill High1ights
+---
++    Web Site Design ( html5, css, js,php)
++    Web Site Design(press word)
++    Adobe Photoshop
++    Adobe Primier
++    Adobe Illustrator
++    3d max
++    Adobe Flash
++    Adobe Audition
++    Adobe Maia
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mrspouya/mrspouya.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Working Experience
+---
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
++    Behbahan and agajare girls ' school teacher
++    Instructor at computer
++    Senior Grafist
+
+
+### Education
+---
+
++    Postgraduate student:Software Engineering
+     -University.Pnu.Theran.rey 
+
++    bachelor of Science: Software Engineering
+     -University.Jondi Shapoor Ahwaz
