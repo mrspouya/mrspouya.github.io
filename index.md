@@ -3,6 +3,7 @@ Resume
 ```
 ### Profile information
 ---
++    https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png
 +    Afsaneh pouya
 +    mrspouya@yahoo.com
 +    https://quera.ir/qcv/
