@@ -6,7 +6,7 @@ Resume
 +    Afsaneh pouya
 +    mrspouya@yahoo.com
 +    https://quera.ir/qcv/
-+    avater: https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png.png
++    https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png.png
 
 
   
