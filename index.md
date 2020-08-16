@@ -1,19 +1,12 @@
 ```
 Resume
 ```
-
-
-
-avater: https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png.png
-
-
-
-
 ### Profile information
 ---
 +    Afsaneh pouya
 +    mrspouya@yahoo.com
 +    https://quera.ir/qcv/
++    avater: https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png.png
 
 
   
