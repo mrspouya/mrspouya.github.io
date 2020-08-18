@@ -3,10 +3,14 @@ Resume
 ```
 ### Profile information
 ---
-+    Afsaneh pouya
-+    mrspouya@yahoo.com
-+    https://quera.ir/qcv/
++    name: Afsaneh pouya     
 +    avatar: https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png.png
+ 
+ 
+### Sidebar links
+---
++   email: mrspouya@yahoo.com
++   quera:  https://quera.ir/qcv/
  
  
 ### Skill High1ights
