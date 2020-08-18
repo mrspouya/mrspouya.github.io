@@ -1,14 +1,20 @@
 ```
 Resume
 ```
+
+
+### Image
+---
++   https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png.png
+
+
 ### Profile information
 ---
 +    Afsaneh pouya
 +    mrspouya@yahoo.com
 +    https://quera.ir/qcv/
- https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png.png
- 
-  
+
+
 ### Skill High1ights
 ---
 +    Web Site Design ( html5, css, js,php)
