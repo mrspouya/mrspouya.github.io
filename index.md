@@ -1,6 +1,4 @@
 ```
- https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png.png
- 
 Resume
 ```
 ### Profile information
@@ -8,7 +6,8 @@ Resume
 +    Afsaneh pouya
 +    mrspouya@yahoo.com
 +    https://quera.ir/qcv/
-
+ https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png.png
+ 
   
 ### Skill High1ights
 ---
