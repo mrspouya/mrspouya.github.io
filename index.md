@@ -4,7 +4,7 @@ Resume
 ### Profile information
 ---
 +    name: Afsaneh pouya     
-+    avatar: https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png.png
++    avatar: https://github.com/mrspouya/mrspouya.github.io/raw/master/profile.png
  
  
 ### Sidebar links
