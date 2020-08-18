@@ -5,7 +5,7 @@ Resume
 
 ### Image
 ---
-+   https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png.png
+ +  https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png.png
 
 
 ### Profile information
