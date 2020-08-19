@@ -2,6 +2,8 @@
 
 ![Logo](https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png.png)
 
+
+
 ### Profile information
 ---
 +    Afsaneh pouya     
@@ -9,7 +11,7 @@
  
 ### Sidebar links
 ---
-+   email :   mrspouya@yahoo.com 
++   email : mrspouya@yahoo.com 
 
 +   Quera Site : [Link]( https://quera.ir/qcv)
  
