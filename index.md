@@ -1,14 +1,17 @@
 ### Resume
 
+
 ![Logo](https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png.png)
 
 
 
 ---
 
+
 ### Profile information
 ---
-+    Afsaneh pouya     
++    Afsaneh pouya 
+
 +    Computer teacher
  
 ### Sidebar links
