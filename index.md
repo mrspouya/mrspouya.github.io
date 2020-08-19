@@ -4,7 +4,7 @@ Resume
 ### Profile information
 ---
 +    name: Afsaneh pouya     
-+    avatar:  profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
++    avatar:   profile.png  # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
  
  
 ### Sidebar links
