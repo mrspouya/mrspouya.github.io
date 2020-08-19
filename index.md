@@ -3,8 +3,8 @@ Resume
 ```
 ### Profile information
 ---
-+    name: Afsaneh pouya     
-+    avatar: https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png  
++    Afsaneh pouya     
++    https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png  
  
  
 ### Sidebar links
