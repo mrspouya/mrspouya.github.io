@@ -4,13 +4,18 @@ Resume
 ### Profile information
 ---
 +    Afsaneh pouya     
-+    https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png.png 
+'''
+
+![Logo] (https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png.png)
+
+'''
  
  
 ### Sidebar links
 ---
-+   email: mrspouya@yahoo.com
-+   quera:  https://quera.ir/qcv/
++   email :   mrspouya@yahoo.com 
+
++   Quera Site : [Link]( https://quera.ir/qcv)
  
  
 ### Skill High1ights
