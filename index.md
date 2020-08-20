@@ -1,6 +1,4 @@
-  <div dir="rtl"> 
-  
-  
+ 
 ![Logo](https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png.png)
 
 
@@ -115,7 +113,7 @@
    [Resume](/assessment/AP_CV_CheckList_AR_3983.pdf)
 
 
-</div>
+
 
 
 
