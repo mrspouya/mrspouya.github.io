@@ -1,17 +1,11 @@
-### Resume
-
 
 ![Logo](https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png.png)
 
-
+### Intro
 
 ---
-
-
-### Profile information
----
-+    Afsaneh pouya 
-
++  تاریخ تولد
+     - 31/4/1363
 +    Computer teacher
  
 ### Sidebar links
