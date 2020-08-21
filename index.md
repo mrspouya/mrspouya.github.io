@@ -1,5 +1,4 @@
-<div dir="rtl">
-  
+
 ![Logo](https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png.png)
 
 
@@ -113,4 +112,3 @@
 
 [از سر گیری](/ارزیابی/AR_CV_CheckList_AR_3983.pdf)
  
-</div>
