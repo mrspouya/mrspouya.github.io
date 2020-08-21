@@ -111,12 +111,3 @@
 ---
  
    [Resume](/assessment/AP_CV_CheckList_AR_3983.pdf)
-
-
-
-
-
-
-
-
-     
