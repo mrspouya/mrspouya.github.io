@@ -1,4 +1,4 @@
-
+<div dir="rtl">
 ![Logo](https://github.com/mrspouya/mrspouya.github.io/raw/master/pic.png.png)
 
 
@@ -105,9 +105,11 @@
    +  https://quera.ir/qcv/
  
  
+ 
  ### ارزیابی رزومه
 
 ---
 
 [از سرگیری] (/ ارزیابی / AR_CV_CheckList_AR_3983.pdf)
  
+</div>
